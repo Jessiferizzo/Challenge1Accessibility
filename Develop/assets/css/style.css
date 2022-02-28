@@ -3,11 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/* Body styles*/
 body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,9 @@ a {
 p {
     font-size: 16px;
 }
+/* end styles to <header> */
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +77,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* Hero Style end */
 
+/* Side bar styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +138,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Side bar styles ends */
 
+/* Main Content styles Starts */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +194,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Main Content styles Ends */
 
+/* Footer Styles Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Styles Ends */
